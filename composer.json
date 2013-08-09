@@ -1,0 +1,13 @@
+{
+    "name": "dwoo/dwoo1",
+    "type": "library",
+    "description": "PHP5 Template Engine",
+    "keywords": ["template", "engine"],
+    "homepage": "http://www.dwoo.org",
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "psr-0": { "Dwoo_": "lib/" }
+    }
+}
